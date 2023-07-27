@@ -1,0 +1,3 @@
+2023-07-24 16:26:22.500  INFO 3956 --- [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] o.s.a.r.l.SimpleMessageListenerContainer : Waiting for workers to finish.
+2023-07-24 16:26:22.704  INFO 3956 --- [org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-3] o.s.a.r.l.SimpleMessageListenerContainer : Successfully waited for workers to finish.
+2023-07-24 16:26:22.940  INFO 3956 --- [SpringApplicationShutdownHook] o.s.a.r.l.SimpleMessageListenerContainer : Shutdown ignored - container is already stopped
