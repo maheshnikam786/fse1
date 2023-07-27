@@ -1,0 +1,50 @@
+/* Styles for the form container */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styles for form labels */
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  /* Styles for form inputs */
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+  }
+  
+  /* Styles for the submit button */
+  .button {
+    background-color: #294ba8;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Styles for form validation/error messages */
+  .error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  /* Additional styles for formatting */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  
